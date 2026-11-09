@@ -1,12 +1,4 @@
-# Smart Parking UMSU
-
-**Sistem parkir cerdas berbasis QR Code untuk lingkungan kampus Universitas Muhammadiyah Sumatera Utara.**
-
----
-
-## 📋 Overview
-
-Smart Parking UMSU adalah sistem manajemen parkir modern yang memungkinkan mahasiswa mendaftarkan kendaraan, mendapatkan QR Code permanen, dan menggunakan QR tersebut untuk masuk/keluar area parkir kampus. Sistem ini dilengkapi dengan dashboard admin realtime untuk monitoring aktivitas parkir.
+# tahap perbaikan website pembelajaran
 
 ## 🏗️ Architecture
 
